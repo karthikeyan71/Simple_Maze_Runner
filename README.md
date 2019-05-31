@@ -1,4 +1,4 @@
-# Chess-Game
+# MAZE RUNNER
 
 Install the applicaiton dependecies by using * npm i *
 
